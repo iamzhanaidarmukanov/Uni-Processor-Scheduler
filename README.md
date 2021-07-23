@@ -191,6 +191,13 @@ is scheduled to run on CPU from the a-th tick to b-th tick and from c-th tick to
 second line should be “a b c d”
 
 
+**Visualisation of the output**
+
+How to visualize:
+1. open vis.html
+2. click the open button on the page, select the output txt file you want to visualize
+3. visualization done
+
 
 
 
